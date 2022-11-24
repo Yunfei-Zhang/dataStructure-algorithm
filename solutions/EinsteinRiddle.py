@@ -1,0 +1,6 @@
+list_house_nr = [x for x in 1:5]
+list_nation = ['norweigan', 'dane', 'brit', 'german', 'swede']
+list_color = ['blue', 'yellow', 'white', 'red', 'green']
+list_beverage = ['milk', 'coffee', 'beer', 'water', 'tea']
+list_pet = ['horses', 'cats', 'birds', 'fish', 'dogs']
+list_smoking = ['prince', 'dunhill', 'pallmall', 'blend', 'bluemaster']
